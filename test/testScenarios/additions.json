@@ -1,0 +1,17 @@
+{
+	"5plus5":{
+        "startAmount": 5,
+        "additionAmount": 5,
+        "expectedResult": 10
+	},
+	"5plus9":{
+        "startAmount": 5,
+        "additionAmount": 9,
+        "expectedResult": 14
+	},
+	"5plus2":{
+        "startAmount": 5,
+        "additionAmount": 2,
+        "expectedResult": 7
+	}
+}
